@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    padding: 0;
+    margin: 0rem auto;
+    font-weight: bold;
+    font-family: Consolas, "Liberation Mono";
+    
+}
+body{
+    background-color: #4f5017;
+    color: #fff;
+}
+
+.section{display: block;}
+
+.btngrid{
+    font-size:2rem;
+    height: 4rem;
+    margin: 0.5rem;
+    width: 4rem;
+}
+
+.x{
+    font-size:2rem;
+    height: 4rem;
+    margin: 0.5rem;
+    width: 4rem;
+    background-color: #079465;
+    color: #fff;
+}
+.o{
+    font-size:2rem;
+    height: 4rem;
+    margin: 0.5rem;
+    width: 4rem;
+    color: #fff;
+    background-color: #540794;
+}
+
+.linea{
+    font-size:2rem;
+    height: 4rem;
+    margin: 0.5rem;
+    width: 4rem;
+    color: #fff;
+    background-color: #cf3000;
+}
