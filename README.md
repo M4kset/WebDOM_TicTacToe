@@ -10,7 +10,7 @@ I decided to choose DOM over any library or other graphics thing to to the job d
 
 It includes an AI to compete with if you're playing alone, but it isn't truly an AI *(everyone pretends that any somewhat complex program is AI, so the "AI" thing stays)*, is just an algorithm and it's very bad, it just selects a random valid cell, yeah, intelligent. 👌
 
-And last but not least, the whole project was coded in spanish, since that is my native language for those who are wondering why there is a code line that goes: ```var carlitos = -32``` 
+And last but not least, some parts of the project were coded in spanish, since that is my native language for those who are wondering why there is a code line that goes: ```var carlitos = -32``` 
 
 *(It might to useful to let people know that some stuff will appear in spanish due to things... ok, I gotta edit the readme in the profile real quick, and yep, that was it, bye)*
 
